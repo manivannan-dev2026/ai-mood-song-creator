@@ -1,0 +1,3 @@
+streamlit
+SpeechRecognition
+youtube-search-python
